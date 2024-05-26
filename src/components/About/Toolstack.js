@@ -11,22 +11,23 @@ import {
 function Toolstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiMacos />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiVisualstudiocode />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiPostman />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiTailwindcss />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiBootstrap  />
-      </Col>
-    </Row>
+    <Col xs={4} md={2} className="tech-icons" data-testid="macos-icon">
+      <SiMacos />
+    </Col>
+    <Col xs={4} md={2} className="tech-icons" data-testid="vscode-icon">
+      <SiVisualstudiocode />
+    </Col>
+    <Col xs={4} md={2} className="tech-icons" data-testid="postman-icon">
+      <SiPostman />
+    </Col>
+    <Col xs={4} md={2} className="tech-icons" data-testid="tailwindcss-icon">
+      <SiTailwindcss />
+    </Col>
+    <Col xs={4} md={2} className="tech-icons" data-testid="bootstrap-icon">
+      <SiBootstrap />
+    </Col>
+  </Row>
+  
   );
 }
 

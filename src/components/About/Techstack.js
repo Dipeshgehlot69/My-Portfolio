@@ -19,40 +19,37 @@ import { FaFigma } from "react-icons/fa";
 function Techstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
-      <Col xs={4} md={2} className="tech-icons">
-        <CgCPlusPlus />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <DiJavascript1 />
-      </Col>
-     
-      <Col xs={4} md={2} className="tech-icons">
-        <DiNodejs />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <DiReact />
-      </Col>
-     
-      <Col xs={4} md={2} className="tech-icons">
-        <DiMongodb />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiNextdotjs />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <DiGit />
-      </Col>
-    
-      <Col xs={4} md={2} className="tech-icons">
-        <SiPostgresql />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <DiPython />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-      <FaFigma />
-      </Col>
-    </Row>
+  <Col xs={4} md={2} className="tech-icons" data-testid="cplusplus-icon">
+    <CgCPlusPlus />
+  </Col>
+  <Col xs={4} md={2} className="tech-icons" data-testid="javascript-icon">
+    <DiJavascript1 />
+  </Col>
+  <Col xs={4} md={2} className="tech-icons" data-testid="nodejs-icon">
+    <DiNodejs />
+  </Col>
+  <Col xs={4} md={2} className="tech-icons" data-testid="react-icon">
+    <DiReact />
+  </Col>
+  <Col xs={4} md={2} className="tech-icons" data-testid="mongodb-icon">
+    <DiMongodb />
+  </Col>
+  <Col xs={4} md={2} className="tech-icons" data-testid="nextjs-icon">
+    <SiNextdotjs />
+  </Col>
+  <Col xs={4} md={2} className="tech-icons" data-testid="git-icon">
+    <DiGit />
+  </Col>
+  <Col xs={4} md={2} className="tech-icons" data-testid="postgresql-icon">
+    <SiPostgresql />
+  </Col>
+  <Col xs={4} md={2} className="tech-icons" data-testid="python-icon">
+    <DiPython />
+  </Col>
+  <Col xs={4} md={2} className="tech-icons" data-testid="figma-icon">
+    <FaFigma />
+  </Col>
+</Row>
   );
 }
 
