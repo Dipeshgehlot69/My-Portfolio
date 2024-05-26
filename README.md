@@ -2,7 +2,7 @@
 
 This repository contains the source code for my personal portfolio website. The website is built using React, Tailwind, and other libraries to showcase my skills, projects, and provide a platform for visitors to connect with me.
 
-#### Test Cases Link https://github.com/Dipeshgehlot69/My-Portfolio/blob/main/src/components/__test__
+#### Test Cases Link https://github.com/Dipeshgehlot69/My-Portfolio/blob/main/src/components/__test__/
 
 ![Screenshot 2024-05-26 221730](https://github.com/Dipeshgehlot69/My-Portfolio/assets/128991454/1f24821d-23f5-4f92-91b7-d10a7441a9f7) 
 
