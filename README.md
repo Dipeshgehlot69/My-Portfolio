@@ -1,6 +1,6 @@
 # "Personal Portfolio Website"
 
-This repository contains the source code for my personal portfolio website. The website is built using React, React Bootstrap, and other libraries to showcase my skills, projects, and provide a platform for visitors to connect with me.
+This repository contains the source code for my personal portfolio website. The website is built using React, Tailwind, and other libraries to showcase my skills, projects, and provide a platform for visitors to connect with me.
 
 ![Screenshot 2024-05-26 221730](https://github.com/Dipeshgehlot69/My-Portfolio/assets/128991454/1f24821d-23f5-4f92-91b7-d10a7441a9f7) 
 
@@ -58,7 +58,7 @@ Below are the main components of the website:
 ## Technologies Used
 
 - **React**: JavaScript library for building user interfaces.
-- **React Bootstrap**: Bootstrap components built with React.
+- **Tailwind**: tailwind components built with React.
 - **React PDF**: Component for rendering PDF documents in React.
 - **PDF.js**: Library for rendering PDF documents in the browser.
 
@@ -73,6 +73,12 @@ Feel free to connect with me on:
 
 ## Images
 
+![Screenshot 2024-05-26 221730](https://github.com/Dipeshgehlot69/My-Portfolio/assets/128991454/c52d18b6-8f0b-4bee-b78c-0c3f074b8e7e)
+![Screenshot 2024-05-26 221958](https://github.com/Dipeshgehlot69/My-Portfolio/assets/128991454/8c434fe8-63eb-4c3c-a44a-8a8d1eac6a28)
+![Screenshot 2024-05-26 222037](https://github.com/Dipeshgehlot69/My-Portfolio/assets/128991454/b8bf8f37-e306-448e-b193-18a239e54fa7)
+![Screenshot 2024-05-26 222054](https://github.com/Dipeshgehlot69/My-Portfolio/assets/128991454/d8457938-be9e-49ee-a5ab-30ed0aa6f072)
+![Screenshot 2024-05-26 222124](https://github.com/Dipeshgehlot69/My-Portfolio/assets/128991454/1be58154-2cb3-4e4b-8329-450a90692177)
+![Screenshot 2024-05-26 222140](https://github.com/Dipeshgehlot69/My-Portfolio/assets/128991454/0ca38e5e-783d-4639-86d6-67bad032f8cb)
 
 
 
