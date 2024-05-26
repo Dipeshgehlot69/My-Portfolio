@@ -47,6 +47,8 @@ This test suite includes tests for the following components:
 - **Typewriter effect**:This test suite checks the rendering of the Typewriter component with the correct options for displaying text.
 - **Text Rendering**Rendering of text headings
 
----
+## How to Run this 
+- Open cmd at file location
+- npm jest or npm test
 
 These test cases ensure the proper functionality, rendering, and behavior of components crucial to the personal portfolio website. They cover a range of aspects such as rendering correctness, text content, icon representation, and scrolling behavior, contributing to a robust and reliable user experience.
